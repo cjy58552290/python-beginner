@@ -1,1 +1,1 @@
-# python-beginner
+# 만원 갖고 싶습니다.
